@@ -1,0 +1,26 @@
+.popover.validation
+{
+    border-width: medium;
+    border-color: #B94A48;
+}
+
+.popover.validation.right .arrow
+{
+    border-right-color: #B94A48;
+}
+
+.popover.validation.top .arrow
+{
+    border-top-color: #B94A48;
+}
+
+.popover.validation.left .arrow
+{
+    border-left-color: #B94A48;
+}
+
+.popover.validation.bottom .arrow
+{
+    border-bottom-color: #B94A48;
+}
+
