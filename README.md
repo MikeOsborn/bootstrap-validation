@@ -1,7 +1,7 @@
 [Bootstrap-Validation](http://github.com/MikeOsborn/bootstrap-validation)
 =================
 
-Bootstrap-Validation converts MVC input validation messages into Bootstap popovers.
+Bootstrap-Validation converts MVC input validation messages into Bootstrap popovers.
 
 
 
